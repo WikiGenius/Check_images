@@ -8,16 +8,28 @@
 
 4_ Consider the time resources required to best achieve objectives 1 and 2, and determine if an alternative solution would have given a "good enough" result, given the amount of time each of the algorithms takes to run
 
+-------------------------------------------------------------------------------------
+
 ## Install requirements
 
-bash `pip install -r  requirements.txt`
+``` bash
+pip install -r  requirements.txt
+```
+
+-------------------------------------------------------------------------------------
 
 ## Run the program
 
-bash `sh run_models_batch.sh`
+``` bash
+sh run_models_batch.sh
+```
+
+-------------------------------------------------------------------------------------
 
 ## Accounts
 
 [Gmail](muhammedelyamani92@gmail.com)
 
 [Github](https://github.com/WikiGenius)
+
+-------------------------------------------------------------------------------------
