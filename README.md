@@ -28,7 +28,7 @@ sh run_models_batch.sh
 
 ## Accounts
 
-[Gmail](muhammedelyamani92@gmail.com)
+[Gmail](https://muhammedelyamani92@gmail.com/)
 
 [Github](https://github.com/WikiGenius)
 
